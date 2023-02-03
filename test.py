@@ -10,3 +10,5 @@ F= abs(integrate.quad(f, -1, 0)[0]) + integrate.quad(f, 0, 1)[0]
 print(F)
 print(f)
 print(f)
+
+print(F)
